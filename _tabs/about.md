@@ -23,4 +23,4 @@ My core skillsets:
 * **Code Review and Scripting** - <span style="color:green">PHP, JavaScript, Python, Bash</script>
 * **Web3 Security** - <span style="color:green">Just started learning this</script>
 
-The more i know, the more i realize i dont know. I am therefore a student of the game..
+The more i know, the more i realize i dont know. I am therefore a student of the game.
