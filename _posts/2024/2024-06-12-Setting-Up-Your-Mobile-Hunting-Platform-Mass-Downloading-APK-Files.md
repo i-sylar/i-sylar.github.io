@@ -55,4 +55,4 @@ The good thing with apkeep is it can be used to download historical versions of 
 Downloading from Google Play Store will however require authentication. This can be done by following the steps [here](https://github.com/EFForg/apkeep/blob/master/USAGE-google-play.md)
 
 ## Feeling a little Paranoid?
-In the likely case you do not trust the store, feel free to scan your files on [virustotal](https://www.virustotal.com "scan with virustotal"), [Kasperskey](https://opentip.kaspersky.com), [OPSWAT Metadefender Cloud](https://metadefender.opswat.com "scan with metadefender") or a more personalized apk scanner like [Koodous](https://koodous.com "scan with koodous") which gives more details. 
+In the likely case you do not trust the store, feel free to scan your files on [virustotal](https://www.virustotal.com "scan with Virustotal"), [Kasperskey](https://opentip.kaspersky.com), [OPSWAT Metadefender Cloud](https://metadefender.opswat.com "scan with metadefender") or a more personalized apk scanner like [Koodous](https://koodous.com "scan with koodous") which gives more details.
