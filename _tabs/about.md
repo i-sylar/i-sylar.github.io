@@ -20,7 +20,7 @@ My core skillsets:
 * **Cloud Security and Auditing** - <span style="color:green">Terrascan, Scoutesuite, Cloudsploit, Checkov, Zeus.</span>
 * **DevSecOps** - <span style="color:green">Terrafoam, IaC, Kubernetes, Docker, CI/CD security, GitOps, DefectDojo.</span>
 * **Penetration Testing** - <span style="color:green">Active Directory, Network, Applications.</span>
-* **Code Review and Scripting** - <span style="color:green">PHP, JavaScript, Python, Bash</script>
-* **Web3 Security** - <span style="color:green">Just started learning this</script>
+* **Code Review and Scripting** - <span style="color:green">PHP, JavaScript, Python, Bash</span>
+* **Web3 Security** - <span style="color:green">Just started learning this</span>
 
-The more i know, the more i realize i dont know. I am therefore a student of the game.
+The more I know, the more I realize there's so much more to learn. I am therefore a student of the game.
