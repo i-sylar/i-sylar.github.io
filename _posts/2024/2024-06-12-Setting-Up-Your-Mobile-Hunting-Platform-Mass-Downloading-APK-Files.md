@@ -56,3 +56,6 @@ Downloading from Google Play Store will however require authentication. This can
 
 ## Feeling a little Paranoid?
 In the likely case you do not trust the store, feel free to scan your files on [virustotal](https://www.virustotal.com "scan with Virustotal"), [Kasperskey](https://opentip.kaspersky.com), [OPSWAT Metadefender Cloud](https://metadefender.opswat.com "scan with metadefender") or a more personalized apk scanner like [Koodous](https://koodous.com "scan with koodous") which gives more details.
+
+## What next?
+Deep dive into SAST and DAST.
