@@ -28,7 +28,8 @@ My forte includes Web and Mobile Security, Cloud Security, Penetration Testing a
 
 ![experience!](/assets/img/exp.png)
 
-My experience over the years have been geared towards providing a secure atmosphere in my both my employment and clientele. I do: 
+My experience over the years have been geared towards providing a secure atmosphere in my employment environment and clientele too.
+I do:
 - Test applications for security vulnerabilities before deployment.
 - Worked with developers to ensure secure source code implementation.
 - Offer decure coding training to developers and students.
