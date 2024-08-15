@@ -37,7 +37,7 @@ I do:
 - CI/CD pipeline review for security.
 - Automate security testing in development pipeline.
 - Perform Threat Modelling for clients and at work too.
-- Perform Active Directory Pentesting and audits.
+- Active Directory Pentesting and audits.
 - Conduct Cloud security testing and auditing for misconfiguration.
 - Overall, I hack your system, secure it, so the bad guys will have a hard time getting in.
 
