@@ -14,7 +14,7 @@ I am a part-time Bug Bounty Hunter on **Hackerone, BugCrowd and Intigriti** wher
 
 My forte includes Web and Mobile Security, Cloud Security, Penetration Testing and Automation.
 
-### My core skillsets/Tech Stack:
+![tech!](/assets/img/techs.png)
 
 * **SAST** - <span style="color:green">Snyk, Semgrep, Sonarcube, CodeQL, Apkhunt, MobSF.</span>
 * **DAST** - <span style="color:green">BurpSuite, Caido, Postman, Invicti, Acunetix.</span>
@@ -26,7 +26,8 @@ My forte includes Web and Mobile Security, Cloud Security, Penetration Testing a
 * **Web3 Security** - <span style="color:green">Just started learning this.</span>
 * **Verison Control** - <span style="color:green">Git, GitHub, GitLab, SVN.</span>
 
-### Experience
+![experience!](/assets/img/exp.png)
+
 My experience over the years have been geared towards providing a secure atmosphere in my both my employment and clientele. I do: 
 - Test applications for security vulnerabilities before deployment.
 - Worked with developers to ensure secure source code implementation.
@@ -39,6 +40,5 @@ My experience over the years have been geared towards providing a secure atmosph
 - Conduct Cloud security testing and auditing for misconfiguration.
 - Overall, i hack your system, secure it, so the bad guys will have a hard time getting in.
 
-### Consultation?
-![downloading!](/assets/img/consult.png)
+![consult!](/assets/img/consult.png)
 - Well, of course. Contact me for any security related jobs/gigs.
