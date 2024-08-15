@@ -31,7 +31,7 @@ My forte includes Web and Mobile Security, Cloud Security, Penetration Testing a
 My experience over the years have been geared towards providing a secure atmosphere in my employment environment and clientele too.
 I do:
 - Test applications for security vulnerabilities before deployment.
-- Worked with developers to ensure secure source code implementation.
+- Work with developers to ensure secure source code implementation.
 - Offer decure coding training to developers and students.
 - Implement security to CI/CD pipelines.
 - CI/CD pipeline review for security.
