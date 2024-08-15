@@ -34,12 +34,12 @@ I do:
 - Worked with developers to ensure secure source code implementation.
 - Offer decure coding training to developers and students.
 - Implement security to CI/CD pipelines.
-- Do CI/CD pipeline review for security.
+- CI/CD pipeline review for security.
 - Automate security testing in development pipeline.
 - Perform Threat Modelling for clients and at work too.
 - Perform Active Directory Pentesting and audits.
 - Conduct Cloud security testing and auditing for misconfiguration.
-- Overall, i hack your system, secure it, so the bad guys will have a hard time getting in.
+- Overall, I hack your system, secure it, so the bad guys will have a hard time getting in.
 
 ![consult!](/assets/img/consult.png)
 - Well, of course. Contact me for any security related jobs/gigs.
