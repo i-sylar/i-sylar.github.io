@@ -16,15 +16,15 @@ My forte includes Web and Mobile Security, Cloud Security, Penetration Testing a
 
 ### My core skillsets/Tech Stack:
 
-* **SAST** - <span style="color:lightgreen">Snyk, Semgrep, Sonarcube, CodeQL, Apkhunt, MobSF.</span>
-* **DAST** - <span style="color:lightgreen">BurpSuite, Caido, Postman, Invicti, Acunetix.</span>
-* **IAST** - <span style="color:lightgreen">Invicti, Acunetics, DongTai.</span>
-* **Cloud Security and Auditing** - <span style="color:lightgreen">Terrascan, Scoutesuite, Cloudsploit, Checkov, Zeus.</span>
-* **DevSecOps** - <span style="color:lightgreen">Terrafoam, IaC, Kubernetes, Docker, CI/CD security, GitOps, DefectDojo, Ansible.</span>
-* **Penetration Testing** - <span style="color:lightgreen">Active Directory, Network, Applications.</span>
-* **Code Review and Scripting** - <span style="color:lightgreen">PHP, JavaScript, Python, Bash</span>
-* **Web3 Security** - <span style="color:lightgreen">Just started learning this.</span>
-* **Verison Control** - <span style="color:lightgreen">Git, GitHub, GitLab, SVN.</span>
+* **SAST** - <span style="color:green">Snyk, Semgrep, Sonarcube, CodeQL, Apkhunt, MobSF.</span>
+* **DAST** - <span style="color:green">BurpSuite, Caido, Postman, Invicti, Acunetix.</span>
+* **IAST** - <span style="color:green">Invicti, Acunetics, DongTai.</span>
+* **Cloud Security and Auditing** - <span style="color:green">Terrascan, Scoutesuite, Cloudsploit, Checkov, Zeus.</span>
+* **DevSecOps** - <span style="color:green">Terrafoam, IaC, Kubernetes, Docker, CI/CD security, GitOps, DefectDojo, Ansible.</span>
+* **Penetration Testing** - <span style="color:green">Active Directory, Network, Applications.</span>
+* **Code Review and Scripting** - <span style="color:green">PHP, JavaScript, Python, Bash</span>
+* **Web3 Security** - <span style="color:green">Just started learning this.</span>
+* **Verison Control** - <span style="color:green">Git, GitHub, GitLab, SVN.</span>
 
 ### Tech Stack
 
