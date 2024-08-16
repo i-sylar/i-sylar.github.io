@@ -3,7 +3,7 @@ title: "Finding and Fixing a Simple IDOR on the Avatao Challenge"
 date: 2024-08-16 14:45:21 +0300
 categories: [Web Security, web]
 tags: [web, hacking, idor]
-image: /assets/img/idor.png
+image: /assets/img/idor.jpeg
 alt: "Simple IDOR finding and fixing"
 ---
 I came across a challenge on the avatao.com site. Very simple IDOR. The site has a couple of challenges and this was my first attempt at these online challenges i never do.
