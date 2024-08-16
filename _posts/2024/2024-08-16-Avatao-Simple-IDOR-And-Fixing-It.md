@@ -25,13 +25,13 @@ Let's dive in.
 - Using burp intruder, we can fuzz from 1 through 30, revealing the user id 19 details.
 ![error](/assets/img/attacker-profile.png)
 - The next challenge was to fix this IDOR. We have the following python code, access_control.py that handles this logic. 
-```code
+```python
 def authorize_user(current_user: int, id_: int):
     return True
 ```
 - The function should return `True` if the `id_` parameter matches the `current_user` parameter (the ID of the user who sent the request). Both parameters are integers.
 - This can be done using a simple if statement. If the `current_user` and `id_` match, it will return `True`, hense `False`.
-```code
+```python
 def authorize_user(current_user: int, id_: int):
   # we add this code to perform a check to match current_user to the entered id.
     if current_user == id_:
