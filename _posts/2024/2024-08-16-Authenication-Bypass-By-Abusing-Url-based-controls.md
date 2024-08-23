@@ -38,6 +38,7 @@ X-Original-Url: /admin/delete
 ```
 
 - We get the response:
+
 ```html
 <section id=notification-labsolved class=notification-labsolved-hidden>
         <div class=container>
