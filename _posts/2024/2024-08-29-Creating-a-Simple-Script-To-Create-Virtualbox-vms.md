@@ -1,5 +1,5 @@
 ---
-title: "Scipting VirtualBox VM Creation: Using VBoxManage"
+title: "Scripting VirtualBox VM Creation: Using VBoxManage"
 date: 2024-08-29 17:25:26 +0300
 categories: [Scripting, bash]
 tags: [virtualization, scripting, bash]
