@@ -3,7 +3,7 @@ title: "Automating Genymoton and Frida Setup"
 date: 2025-05-18 00:25:55 +0300
 categories: [Scripting, bash]
 tags: [virtualization, scripting, bash]
-image: /assets/img/vm/vbox-logo.png
+image: /assets/img/vm/vm4.png
 alt: "Automating Genymoton and Frida Setup"
 ---
 
@@ -495,9 +495,15 @@ else
 fi
 ```
 
-The full script will be in the github repo herenym
+The full script will be in the github repo here
 
-This can be confirmed from the VirtualBox manager interface.
-![error](/assets/img/vm/vbox.png)
+What do you look like when you run perfect?
+![perfect](/assets/img/vm/vm1.jpg)
+![perfect](/assets/img/vm/vm2.jpg)
 
-First step in my devops learning path :-)
+What of in the case you happen to run
+![perfect](/assets/img/vm/vm3.jpg)
+
+I've learnt that with every new installation or configurations, disapointments arise. It's not you, nor me. Something greater than both of us. Its the relationship between frida and frida server. A mismatch made in code, by, yours truly, unexpected version update. 
+
+They both match, 7.0.0 but somehow there is a mismatch error as of 4 hrs of this post. So we are forced to hard code a previous stable version (16.9). To make us sleep better and know, its does work.
