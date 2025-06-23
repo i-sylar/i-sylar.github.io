@@ -324,7 +324,7 @@ ipset list blacklist-malip | wc -l
 ```
 Use iptables to block traffic from the blacklist
 ```bash
-iptables -I INPUT -m set --match-set blacklist src -j DROP
+iptables -I INPUT -m set --match-set blacklist-malip src -j DROP
 ```
 Test and Persist the Rules
 ```bash
