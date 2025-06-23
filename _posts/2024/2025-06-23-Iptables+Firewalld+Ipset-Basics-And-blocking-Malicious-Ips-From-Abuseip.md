@@ -3,7 +3,7 @@ title: "Iptables/Firewalld + ipset Basics and Blocking Malicious Ips from Abusei
 date: 2025-06-23 12:26:21 +0300
 categories: [Scripting, bash, Blue-Team]
 tags: [virtualization, scripting, bash]
-image: /assets/img/firewalld_iptabes.png
+image: /assets/img/firewalld _ iptabes.png
 alt: "Iptables/Firewalld + ipset Basics and Blocking Malicious Ips from Abuseip Dataset"
 ---
 
